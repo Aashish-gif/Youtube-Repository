@@ -1,0 +1,45 @@
+#Sidemenu{
+    background-color: rgb(48, 48, 48);
+}
+#logo{
+    display:flex
+}
+#ham{
+   margin-top: -5px;
+   margin-left: 15px;
+}
+#log{
+    margin-left:15px;
+}
+#home{
+    display:flex;
+    border: 1px solid grey;
+    background-color: grey;
+    height:40px;
+    width:180px;
+    margin-top: 50px;
+    margin-left:10px;
+}
+#homee{
+    display:flex;
+margin-top: 5px;
+margin-left:10px;
+}
+#img{
+ padding-top:10px;
+ padding-left:20px;
+}
+#text{
+    padding-top:10px;
+ padding-left:20px;
+}
+#hr{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+#hre{
+    padding-top:20px;}
+    #sub{
+        padding-left:35px;
+    color:rgb(201, 195, 195);
+}
